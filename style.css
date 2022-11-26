@@ -1,0 +1,18 @@
+.continer > div {
+  padding: 30px;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.continer > div:nth-child(even) {
+  background-color: #27ae60;
+}
+
+.continer > div:nth-child(odd) {
+  background-color: #2980b9;
+}
+/* alan alt+shif_F beza */
+/* prettier baraie tamizi code va dge congig nemikhad koni hammon yebar bood faghat  */
